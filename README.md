@@ -1,21 +1,10 @@
-# PawFinds v2.0: A Pet Adoption System | MERN Stack Portfolio with JWT Auth, OTP Verification & Admin Panel
+# PawFinds: A Pet Adoption System | MERN Stack Portfolio with JWT Auth, OTP Verification & Admin Panel
 PawFinds is a website where users can either give a pet up for adoption or adopt one. The admin decides if a pet can be put up for adoption and reviews adoption applications. This new version includes JWT authentication, OTP verification, user profiles, and an enhanced admin dashboard with data visualization.
-
-# 🌐 Deployed Version:
-[Click to visit the deployed version](https://pawfinds-v2.onrender.com/)
-
-[Click to get older version PawFinds V1.0 ](https://github.com/KaShiekzmi/PawFinds-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel)
-
-### Watch PawFinds in Action
-
-[![Watch the video](https://github.com/user-attachments/assets/62fadd25-ea4f-46af-940b-5bab522e0e89)](https://youtu.be/SCcAGzNVuu8?si=m4Hex9oKHttvYLoj)
-
-Click the image above to watch a demo of PawFinds on YouTube.
 
 ## Introduction
 PawFinds connects pet lovers with pets in need of a home. This platform simplifies pet adoption with a user-friendly experience, now with enhanced security and functionality.
 
-## New Features (V2.0)
+## Features (V2.0)
  - JWT Authentication: Users are securely authenticated with JSON Web Tokens (JWT).
  - OTP Verification: Added extra security for users with one-time password (OTP) verification.
  - User Profiles: Each user now has a personalized profile where they can manage their information.
@@ -81,5 +70,5 @@ We welcome contributions to improve PawFinds! To contribute, follow these steps:
 
 ## Contact Information
 For questions, please contact 
-- [GitHub](https://github.com/kashiekzmi)
-- [LinkedIn](https://www.linkedin.com/in/kashiekzmi)
+- [GitHub](https://github.com/kaushal-Prakash)
+- [LinkedIn](https://www.linkedin.com/in/devkaushalprakash)
