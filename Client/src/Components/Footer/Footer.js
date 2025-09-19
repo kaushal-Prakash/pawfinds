@@ -50,7 +50,7 @@ const Footer = (props) => {
           &nbsp;&nbsp;|&nbsp;&nbsp;
           <a
             className="contact-links"
-            href="https://www.instagram.com/manik_276/"
+            href="https://www.instagram.com/manik__276/"
             target="_blank"
             rel="noopener noreferrer"
           >
