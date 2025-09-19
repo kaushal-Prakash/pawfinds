@@ -72,31 +72,4 @@ const Footer = (props) => {
   );
 };
 
-export default Footer;            <i className="fa fa-github"></i> GitHub
-          </a>
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-          <a
-            className="contact-links"
-            href="https://www.instagram.com/manik_276/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fa fa-instagram"></i> Instagram
-          </a>
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-          <a
-            className="contact-links"
-            href="https://api.whatsapp.com/qr/GXRHM7PEPNOKA1?autoload=1&app_absent=0"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fa fa-whatsapp"></i> WhatsApp
-          </a>
-        </p>
-        <p>&copy; 2025 Manik Salaria</p>
-      </div>
-    </footer>
-  );
-};
-
 export default Footer;
