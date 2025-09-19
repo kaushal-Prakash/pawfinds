@@ -6,28 +6,23 @@ const Contact = () => {
     <div className="contactUs-main-container">
       <div className="contactUs-left-para">
         <h3>Let's get in touch</h3>
-        <i class="fa fa-envelope"></i>
-        <a class="mail-links" href="mailto:maniksalaria890@gmail.com">
-          maniksalaria890@gmail.com
+        <i className="fa fa-envelope"></i>
+        <a className="mail-links" href="mailto:savagegamer1289@gmail.com">
+          savagegamer1289@gmail.com
         </a>
 
-        <i class="fa fa-linkedin"></i>
-        <a class="mail-links" href="https://www.linkedin.com/in/manik-salaria-095501280/">
-          User Name: maniksalaria
+        <i className="fa fa-linkedin"></i>
+        <a className="mail-links" href="https://www.linkedin.com/in/devkaushalprakash?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          User Name: devkaushalprakash
         </a>
 
-        <i class="fa fa-github"></i>
-        <a class="mail-links" href="https://github.com/kaushal-Prakash/pawfinds">
-          maniksalaria
+        <i className="fa fa-github"></i>
+        <a className="mail-links" href="https://github.com/kaushal-Prakash">
+          kaushal-Prakash
         </a>
 
-        <i class="fa fa-instagram"></i>
-        <a class="mail-links" href="https://www.instagram.com/manik_276/">
-          @manik_276
-        </a>
-
-        <i class="fa fa-phone"></i>
-        <a class="mail-links" href="tel:+8899772696">
+        <i className="fa fa-phone"></i>
+        <a className="mail-links" href="tel:+8899772696">
           +92 301 9583959
         </a>
       </div>
